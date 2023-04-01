@@ -1,4 +1,4 @@
 # e-learning
 
-npm start
-npm run watch
+# npm start
+# npm run watch

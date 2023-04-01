@@ -1,4 +1,7 @@
 # e-learning
 
-# npm start
-# npm run watch
+# running code
+npm start
+
+# watching change css
+npm run watch
